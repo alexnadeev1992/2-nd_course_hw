@@ -26,24 +26,16 @@ body{
 .title{
     color: #FFF;
     font-size: 64px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
-    
 }
 .top__text{
 color: #FFF;
 font-size: 18px;
-font-style: normal;
 line-height: 32px;
 line-height: 32px; 
 margin-top: 32px;
 margin-bottom: 44px;
-max-width: 481px;
+
 
 }
 .top__button{
